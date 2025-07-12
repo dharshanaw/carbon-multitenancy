@@ -1032,7 +1032,7 @@
         <commons-digester.version>1.8</commons-digester.version>
         <orbit.version.commons.codec>1.4.0.wso2v1</orbit.version.commons.codec>
         <orbit.version.backport.util>3.1.0.wso2v1</orbit.version.backport.util>
-        <version.commons.lang3>3.1</version.commons.lang3>
+        <version.commons.lang3>3.18.0</version.commons.lang3>
 
         <log4j.version>1.2.13</log4j.version>
 
